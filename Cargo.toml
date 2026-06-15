@@ -1,0 +1,7 @@
+[package]
+name = "wsl-path-converter"
+version = "0.1.0"
+edition = "2024"
+description = "Convert Windows paths to WSL paths (/mnt/c/... format)"
+
+[dependencies]
